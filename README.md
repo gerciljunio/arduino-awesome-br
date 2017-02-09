@@ -1,13 +1,16 @@
 # arduino-awesome-br
 Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
 
+## Aprender Arduino
+ - [Bricando com Idéias - Programação com Arduino](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi)
+ - [Navarro Eletrônica - Arduino](https://www.youtube.com/playlist?list=PLkaiotro1N8C1_yZIDyOaajvLmXnYZU01)
+ - [Programação para Arduino - Primeiros Passos](https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/)
+ 
 ## ESP8266
-
  - [Arduino na rede WiFi do jeito fácil, com ESP8266 e o esp-link](http://br-arduino.org/2015/10/esp-link.html)
  - [ESP8266 - Guia Básico](http://pedrominatel.com.br/pt/esp8266/esp8266-o-guia-basico-de-hardware/)
  
 ## Conversor de Nível Lógico
-
  - [Como funciona o conversor de nível lógico 3,3 - 5V](http://www.arduinoecia.com.br/2015/11/conversor-de-nivel-logico-33-5v-Arduino.html)
  - [Divisor de tensão e Conversor de nível lógico LLC](http://dobitaobyte.com.br/conversor-de-nivel-logico-e-divisor-de-tensao)
  
