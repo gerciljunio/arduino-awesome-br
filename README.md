@@ -11,8 +11,15 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
  - [ESP8266 - Guia Básico](http://pedrominatel.com.br/pt/esp8266/esp8266-o-guia-basico-de-hardware/)
  
 ## Conversor de Nível Lógico
+Converte sinais digitais de um padrão lógico para outro. Em outras palavras, converte por exemplo, um pino digital de 5v para um de 3.3v.
+
  - [Como funciona o conversor de nível lógico 3,3 - 5V](http://www.arduinoecia.com.br/2015/11/conversor-de-nivel-logico-33-5v-Arduino.html)
  - [Divisor de tensão e Conversor de nível lógico LLC](http://dobitaobyte.com.br/conversor-de-nivel-logico-e-divisor-de-tensao)
+ 
+## Regulador de Tensão
+Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tensão menor estabilizada. Por exemplo, usar uma fonte de celular com saída de 5v para acionar componentes de 3.3v.
+
+ - [Regulador de Tensão, uma visão geral sobre esse importante componente da eletrônica](http://www.comofazerascoisas.com.br/regulador-de-tensao-introducao.html)
  
 ## Fontes
  - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
