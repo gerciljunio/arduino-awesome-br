@@ -13,3 +13,6 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
  
 ## Fontes
  - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
+ 
+## Podcasts
+ - [A Internet das Coisas](http://sensedia.com/blog/podcast-techbeer/techbeer-o-podcast-da-sensedia-ep-1-internet-das-coisas/)
