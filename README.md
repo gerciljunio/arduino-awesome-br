@@ -12,4 +12,4 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
  - [Divisor de tensão e Conversor de nível lógico LLC](http://dobitaobyte.com.br/conversor-de-nivel-logico-e-divisor-de-tensao)
  
 ## Fontes
-  - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
+ - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
