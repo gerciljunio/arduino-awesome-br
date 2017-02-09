@@ -20,6 +20,7 @@ Converte sinais digitais de um padrão lógico para outro. Em outras palavras, c
 Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tensão menor estabilizada. Por exemplo, usar uma fonte de celular com saída de 5v para acionar componentes de 3.3v.
 
  - [Regulador de Tensão, uma visão geral sobre esse importante componente da eletrônica](http://www.comofazerascoisas.com.br/regulador-de-tensao-introducao.html)
+ - [Regulador de tensão 3.3v para ESP8266 (e outros)](http://produto.mercadolivre.com.br/MLB-744869384-regulador-de-tenso-33v-ams1117-lm1117-para-esp8266-0134-_JM)
  
 ## Fontes
  - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
