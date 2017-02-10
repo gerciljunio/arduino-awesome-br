@@ -56,3 +56,6 @@ Nada mais é que um sensor magnético que fica normalmente aberto ou normalmente
  - [Reed Switch - O que é?](https://www.youtube.com/watch?v=XRH6DVZ55Dw) [vídeo] - ótimo contéudo e explicação
  - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
  - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
+
+## Elétrica
+ - [Tabela de Cabos x Corrente](http://peropi.com.br/Tabelas/Tabela%20Cabos2.html)
