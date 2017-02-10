@@ -9,6 +9,7 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
 ## ESP8266
  - [Arduino na rede WiFi do jeito fácil, com ESP8266 e o esp-link](http://br-arduino.org/2015/10/esp-link.html)
  - [ESP8266 - Guia Básico](http://pedrominatel.com.br/pt/esp8266/esp8266-o-guia-basico-de-hardware/)
+ - [Monitorando se a porta está fechada ou aberta integrado com o GMail e o IFTTT](http://randomnerdtutorials.com/door-status-monitor-using-the-esp8266/) [em inglês]
  
 ## Conversor de Nível Lógico
 Converte sinais digitais de um padrão lógico para outro. Em outras palavras, converte por exemplo, um pino digital de 5v para um de 3.3v.
@@ -41,3 +42,7 @@ Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tens�
   - [HiveMQ](http://www.hivemq.com/)
   - [EMQ](http://emqtt.io/)
   - [RabbitMQ](https://www.rabbitmq.com/)
+  
+## Arduino Pro Mini
+ - [Como programar o Arduino Pro Mini usando conversor FTDI](http://www.arduinoecia.com.br/2014/09/conversor-ftdi-ft232rl-arduino-pro-mini.html?m=1)
+ 
