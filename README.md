@@ -2,8 +2,8 @@
 Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
 
 ## Aprender Arduino
- - [Bricando com Idéias - Programação com Arduino](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi)
- - [Navarro Eletrônica - Arduino](https://www.youtube.com/playlist?list=PLkaiotro1N8C1_yZIDyOaajvLmXnYZU01)
+ - [Bricando com Idéias - Programação com Arduino](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi) [vídeos]
+ - [Navarro Eletrônica - Arduino](https://www.youtube.com/playlist?list=PLkaiotro1N8C1_yZIDyOaajvLmXnYZU01) [vídeos]
  - [Programação para Arduino - Primeiros Passos](https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/)
  
 ## ESP8266
@@ -24,8 +24,8 @@ Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tens�
  - [Regulador de tensão 3.3v para ESP8266 (e outros)](http://produto.mercadolivre.com.br/MLB-744869384-regulador-de-tenso-33v-ams1117-lm1117-para-esp8266-0134-_JM)
  
 ## Fontes
- - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
- - [Módulo Fonte Ajustável para Protoboard](https://www.youtube.com/watch?v=3-lbpaprcOc)
+ - [Monte uma fonte com várias tensões gastando pouco!](https://www.youtube.com/watch?v=IK1F5AB2FXA) [vídeo] - Muito recomendado assistir, principalmente para quem não quer ter dor de cabeça e preocupar com vários níveis de tensão.
+ - [Módulo Fonte Ajustável para Protoboard](https://www.youtube.com/watch?v=3-lbpaprcOc) [vídeo]
  
 ## Podcasts
  - [A Internet das Coisas](http://sensedia.com/blog/podcast-techbeer/techbeer-o-podcast-da-sensedia-ep-1-internet-das-coisas/)
@@ -48,3 +48,11 @@ Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tens�
  
 ## Internet
  - [Monitorando abertura de portas somente via GMail usando a biblioteca PHPoC](https://www.hackster.io/phpoc_man/arduino-monitoring-door-opening-via-gmail-a609af) [em inglês]
+
+## Reed Switch
+Nada mais é que um sensor magnético que fica normalmente aberto ou normalmente fechado, é o mesmo utilizado em sensores de alarmes que ficam em portas e janelas.
+
+ - [Como funciona o Reed Switch](http://arduinobrasil.blogspot.com.br/2013/02/como-funciona-os-reed-switch.html)
+ - [Reed Switch - O que é?](https://www.youtube.com/watch?v=XRH6DVZ55Dw) [vídeo]
+ - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
+ - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
