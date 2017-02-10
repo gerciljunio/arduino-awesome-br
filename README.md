@@ -53,6 +53,6 @@ Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tens�
 Nada mais é que um sensor magnético que fica normalmente aberto ou normalmente fechado, é o mesmo utilizado em sensores de alarmes que ficam em portas e janelas.
 
  - [Como funciona o Reed Switch](http://arduinobrasil.blogspot.com.br/2013/02/como-funciona-os-reed-switch.html)
- - [Reed Switch - O que é?](https://www.youtube.com/watch?v=XRH6DVZ55Dw) [vídeo]
+ - [Reed Switch - O que é?](https://www.youtube.com/watch?v=XRH6DVZ55Dw) [vídeo] - ótimo contéudo e explicação
  - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
  - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
