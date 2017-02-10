@@ -10,6 +10,7 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
  - [Arduino na rede WiFi do jeito fácil, com ESP8266 e o esp-link](http://br-arduino.org/2015/10/esp-link.html)
  - [ESP8266 - Guia Básico](http://pedrominatel.com.br/pt/esp8266/esp8266-o-guia-basico-de-hardware/)
  - [Monitorando se a porta está fechada ou aberta integrado com o GMail e o IFTTT](http://randomnerdtutorials.com/door-status-monitor-using-the-esp8266/) [em inglês]
+ - [Monitorando abertura de portas somente via GMail usando a biblioteca PHPoC](https://www.hackster.io/phpoc_man/arduino-monitoring-door-opening-via-gmail-a609af) [em inglês]
  
 ## Conversor de Nível Lógico
 Converte sinais digitais de um padrão lógico para outro. Em outras palavras, converte por exemplo, um pino digital de 5v para um de 3.3v.
