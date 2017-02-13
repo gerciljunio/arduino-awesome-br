@@ -5,6 +5,7 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
  - [Bricando com Idéias - Programação com Arduino](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi) [vídeos]
  - [Navarro Eletrônica - Arduino](https://www.youtube.com/playlist?list=PLkaiotro1N8C1_yZIDyOaajvLmXnYZU01) [vídeos]
  - [Programação para Arduino - Primeiros Passos](https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/)
+ - [WR Kits - Curso de Arduino e AVR](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HSyOXhJ77d-iyt5Z_v_1DPM)
  
 ## ESP8266
  - [Arduino na rede WiFi do jeito fácil, com ESP8266 e o esp-link](http://br-arduino.org/2015/10/esp-link.html)
