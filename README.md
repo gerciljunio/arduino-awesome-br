@@ -12,6 +12,7 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
  - [ESP8266 - Guia Básico](http://pedrominatel.com.br/pt/esp8266/esp8266-o-guia-basico-de-hardware/)
  - [Monitorando se a porta está fechada ou aberta integrado com o GMail e o IFTTT](http://randomnerdtutorials.com/door-status-monitor-using-the-esp8266/) [em inglês]
  - [Controle e monitoramento iot com nodemcu e mqtt](http://blog.filipeflop.com/wireless/controle-monitoramento-iot-nodemcu-e-mqtt.html)
+ - [ESP8266 em Buteco OpenSource](https://blog.butecopensource.org/?s=esp8266&submit=Search)
  
 ## NodeMCU
  - Navarro Eletrônica - Automação Fácil com o ESP8266 - [parte 1](https://www.youtube.com/watch?v=rro2KyGv3Dc), [parte 2](https://www.youtube.com/watch?v=1rbqB4WsZ0A), [parte 3](https://www.youtube.com/watch?v=Gcn48TahIiQ), [parte 4](https://www.youtube.com/watch?v=2yKUeWEj77w), [parte 5](https://www.youtube.com/watch?v=l5_DZpme-sY)
@@ -64,3 +65,8 @@ Nada mais é que um sensor magnético que fica normalmente aberto ou normalmente
 
 ## Elétrica
  - [Tabela de Cabos x Corrente](http://peropi.com.br/Tabelas/Tabela%20Cabos2.html)
+
+## Hardware em Geral
+ - [Buteco Open Source](https://blog.butecopensource.org/categoria/hardware/)
+ - [Fazedores](http://blog.fazedores.com/)
+ - [Embarcados](https://www.embarcados.com.br/)
