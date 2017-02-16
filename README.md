@@ -17,6 +17,7 @@ Lista com dicas, informações, bibliotecas e diversas coisas envolvendo Arduino
 ## NodeMCU
  - Navarro Eletrônica - Automação Fácil com o ESP8266 - [parte 1](https://www.youtube.com/watch?v=rro2KyGv3Dc), [parte 2](https://www.youtube.com/watch?v=1rbqB4WsZ0A), [parte 3](https://www.youtube.com/watch?v=Gcn48TahIiQ), [parte 4](https://www.youtube.com/watch?v=2yKUeWEj77w), [parte 5](https://www.youtube.com/watch?v=l5_DZpme-sY)
  - [NodeMCU - Losant Kit Reed Switch](https://docs.losant.com/getting-started/losant-iot-dev-kits/door-sensor-kit)
+ - [RFID](https://jualabs.wordpress.com/2016/09/26/controle-de-acesso-com-nodemcu-rfid/)
  
 ## Conversor de Nível Lógico
 Converte sinais digitais de um padrão lógico para outro. Em outras palavras, converte por exemplo, um pino digital de 5v para um de 3.3v.
