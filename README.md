@@ -65,7 +65,7 @@ Nada mais é que um sensor magnético que fica normalmente aberto ou normalmente
  - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
  - [Tutorial: Sensor Magnético com Arduino](http://engcomper.blogspot.com.br/2011/09/tutorial-sensor-magnetico-com-arduino.html)
 
-## Elétrica
+## Eletrônica
  - [Tabela de Cabos x Corrente](http://peropi.com.br/Tabelas/Tabela%20Cabos2.html)
 
 ## Hardware em Geral
