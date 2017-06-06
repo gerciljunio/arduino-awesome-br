@@ -50,7 +50,7 @@ Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tens�
   - [HiveMQ](http://www.hivemq.com/)
   - [EMQ](http://emqtt.io/)
   - [RabbitMQ](https://www.rabbitmq.com/)
-  - [Awesome MQTT](http://awesomeawesome.party/awesome-mqtt)
+  - [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt)
   - [Awesome IoT & Hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
   
 ## Arduino Pro Mini
