@@ -51,6 +51,7 @@ Cirucuito que recebe uma tensão em corrente contínua e transforma em uma tens�
   - [EMQ](http://emqtt.io/)
   - [RabbitMQ](https://www.rabbitmq.com/)
   - [Awesome MQTT](http://awesomeawesome.party/awesome-mqtt)
+  - [Awesome IoT & Hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
   
 ## Arduino Pro Mini
  - [Como programar o Arduino Pro Mini usando conversor FTDI](http://www.arduinoecia.com.br/2014/09/conversor-ftdi-ft232rl-arduino-pro-mini.html?m=1)
